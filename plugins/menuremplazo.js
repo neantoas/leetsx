@@ -1,5 +1,5 @@
 let handler = async (m, { conn, usedPrefix, command }) => {
-  let imageUrl = 'https://files.catbox.moe/ej79en.jpg'
+  let imageUrl = 'https://i.imgur.com/1GHn054.jpeg'
   
   // Extraemos el número de la persona que ejecuta el comando para mencionarla
   let userTag = `@${m.sender.split('@')[0]}`
@@ -7,8 +7,8 @@ let handler = async (m, { conn, usedPrefix, command }) => {
   let captionText = `¡Hola ${userTag}
 ⊹ ࣪ ˖⤷💙” 𝘋𝘶𝘦𝘯̃𝘰𝘴 𝘥𝘦𝘭 𝘣𝘰𝘵ˎˊ˗ 
 
-📞: wa.me/51992621601
-📞: wa.me/56927280073
+📞: wa.me/522722581214
+𝘐𝘨: instagram.com/leettsita
 
 Comprar con el +56 XD🛍️
 
@@ -352,7 +352,7 @@ Comprar con el +56 XD🛍️
 𖦹°‧★💐.update
 ˚₊‧✩ ˚₊‧꒰ა ʚིᵋº̣̥͙̣̥͙ᵌɞྀ ໒꒱ ‧₊˚ ✩‧₊˚
 
-> KaisenBot'`
+> LeettsitaBot'`
 
   await conn.sendMessage(m.chat, { 
     image: { url: imageUrl }, 

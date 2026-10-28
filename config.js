@@ -8,39 +8,39 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-   ['+51992621601', 'KaisenBot 🐼', true],
-   ['+51992621601', 'KaisenBot', true],
-   ['+51992621601','KaisenBot', true],
-   ['+51992621601', 'KaisenBot', true],
+   ['+522722581214', 'LeettsitaBot 🐼', true],
+   ['+522722581214', 'LeettsitaBot', true],
+   ['+522722581214','LeettsitaBot', true],
+   ['+522722581214', 'LeettsitaBot', true],
 ]
 
 global.creator = [
-   ['+51992621601', 'KaisenBot 🐼', true]
+   ['+522722581214', 'LeettsitaBot 🐼', true]
 ]
 
 global.mods = 
 global.prems = 
 
 
-global.packname = 'KaisenBot MD'
-global.botname = 'KaisenBot'
-global.wm = 'KaisenBot - MD'
-global.author = 'KaisenBot MD'
-global.dev = 'KaisenBot'
+global.packname = 'LeettsitaBot MD'
+global.botname = 'LeettsitaBot'
+global.wm = 'LeettsitaBot - MD'
+global.author = 'LeettsitaBot MD'
+global.dev = 'LeettsitaBot'
 global.errorm = 'Error: ${error.message}'
-global.namebot = 'KaisenBot'
-global.nameai = 'KaisenBot Ai'
-global.textbot = 'KaisenBot MD'
-global.textmain = 'KaisenBot'
-global.textmain2 = 'KaisenBot MD'
+global.namebot = 'LeettsitaBot'
+global.nameai = 'LeettsitaBot Ai'
+global.textbot = 'LeettsitaBot MD'
+global.textmain = 'LeettsitaBot'
+global.textmain2 = 'LeettsitaBot MD'
 global.vs = '2.1.0'
 global.emotg = '🌷'
-global.msgtagall = '💜⋆ 𝗘𝗧𝗜𝗤𝗨𝗘𝗧𝗔 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 ⋆💜\n🛍️𝗔𝗱𝗾𝘂𝗶𝗲𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁 𝗰𝗼𝗻 ⨾\n↳ wa.me/51992621601‬'
-global.moneda = 'KaisenBotCoins'
+global.msgtagall = '💜⋆ 𝗘𝗧𝗜𝗤𝗨𝗘𝗧𝗔 𝗚𝗘𝗡𝗘𝗥𝗔𝗟 ⋆💜\n🛍️𝗔𝗱𝗾𝘂𝗶𝗲𝗿𝗲 𝗲𝗹 𝗯𝗼𝘁 𝗰𝗼𝗻 ⨾\n↳ wa.me/+522722581214'
+global.moneda = 'LeettsitaBotCoins'
 
-global.sessions = 'KaisenBotSession'
+global.sessions = 'LeettsitaBotSession'
 global.jadi = 'JadiBots'
-global.nameqr = 'KaisenBot'
+global.nameqr = 'LeettsitaBot'
 
 
 global.catalogo = fs.readFileSync('./media/catalogo.jpg')
